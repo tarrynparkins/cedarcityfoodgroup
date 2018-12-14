@@ -1,0 +1,29 @@
+﻿.price_table {
+    padding: 10px;
+    background: rgba(255,255,255,0.5);
+    border-spacing: 5px;
+}
+
+.restaurant_name {
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 2.5em;
+    vertical-align: top;
+    color: #000080;
+}
+
+.price_title {
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    font-weight: bold;
+    font-size: 3em;
+    vertical-align: top;
+}
+
+.price_range {
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    font-weight: bold;
+    font-size: 2em;
+    vertical-align: top;
+    color: #009900;
+}
